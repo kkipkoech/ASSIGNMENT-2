@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 //TITUS KIPKOECH CHEBET ;REGISTRATION NUMBER ENE211-0046/2020;
-/*Qustion 1
+/*Question 1
 Demonstrate how hierarchical inheritance can be implemented with the following class design computer - server + client.
 NB. Include class members (data and functions of your choice). Ensure you implement the classes
 using an object in the main() function.*/
